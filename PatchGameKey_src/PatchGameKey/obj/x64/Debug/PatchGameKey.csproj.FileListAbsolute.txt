@@ -1,0 +1,13 @@
+C:\Users\anuwat\source\repos\ConsoleApp12\PatchGameKey\bin\x64\Debug\PatchGameKey.exe.config
+C:\Users\anuwat\source\repos\ConsoleApp12\PatchGameKey\bin\x64\Debug\PatchGameKey.exe
+C:\Users\anuwat\source\repos\ConsoleApp12\PatchGameKey\bin\x64\Debug\PatchGameKey.pdb
+C:\Users\anuwat\source\repos\ConsoleApp12\PatchGameKey\bin\x64\Debug\Memory.xml
+C:\Users\anuwat\source\repos\ConsoleApp12\PatchGameKey\bin\x64\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\anuwat\source\repos\ConsoleApp12\PatchGameKey\bin\x64\Debug\System.Security.Principal.Windows.xml
+C:\Users\anuwat\source\repos\ConsoleApp12\PatchGameKey\obj\x64\Debug\PatchGameKey.csprojAssemblyReference.cache
+C:\Users\anuwat\source\repos\ConsoleApp12\PatchGameKey\obj\x64\Debug\PatchGameKey.exe.config
+C:\Users\anuwat\source\repos\ConsoleApp12\PatchGameKey\obj\x64\Debug\PatchGameKey.csproj.CoreCompileInputs.cache
+C:\Users\anuwat\source\repos\ConsoleApp12\PatchGameKey\obj\x64\Debug\PatchGameKey.csproj.Fody.CopyLocal.cache
+C:\Users\anuwat\source\repos\ConsoleApp12\PatchGameKey\obj\x64\Debug\PatchGameKey.csproj.CopyComplete
+C:\Users\anuwat\source\repos\ConsoleApp12\PatchGameKey\obj\x64\Debug\PatchGameKey.exe
+C:\Users\anuwat\source\repos\ConsoleApp12\PatchGameKey\obj\x64\Debug\PatchGameKey.pdb

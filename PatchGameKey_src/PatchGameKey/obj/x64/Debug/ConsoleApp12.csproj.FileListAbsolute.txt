@@ -1,0 +1,12 @@
+C:\Users\anuwat\source\repos\ConsoleApp12\ConsoleApp12\bin\x64\Debug\ConsoleApp12.exe.config
+C:\Users\anuwat\source\repos\ConsoleApp12\ConsoleApp12\bin\x64\Debug\ConsoleApp12.exe
+C:\Users\anuwat\source\repos\ConsoleApp12\ConsoleApp12\bin\x64\Debug\ConsoleApp12.pdb
+C:\Users\anuwat\source\repos\ConsoleApp12\ConsoleApp12\bin\x64\Debug\Memory.xml
+C:\Users\anuwat\source\repos\ConsoleApp12\ConsoleApp12\bin\x64\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\anuwat\source\repos\ConsoleApp12\ConsoleApp12\bin\x64\Debug\System.Security.Principal.Windows.xml
+C:\Users\anuwat\source\repos\ConsoleApp12\ConsoleApp12\obj\x64\Debug\ConsoleApp12.exe.config
+C:\Users\anuwat\source\repos\ConsoleApp12\ConsoleApp12\obj\x64\Debug\ConsoleApp12.csproj.CoreCompileInputs.cache
+C:\Users\anuwat\source\repos\ConsoleApp12\ConsoleApp12\obj\x64\Debug\ConsoleApp12.csproj.Fody.CopyLocal.cache
+C:\Users\anuwat\source\repos\ConsoleApp12\ConsoleApp12\obj\x64\Debug\ConsoleApp12.csproj.CopyComplete
+C:\Users\anuwat\source\repos\ConsoleApp12\ConsoleApp12\obj\x64\Debug\ConsoleApp12.exe
+C:\Users\anuwat\source\repos\ConsoleApp12\ConsoleApp12\obj\x64\Debug\ConsoleApp12.pdb
