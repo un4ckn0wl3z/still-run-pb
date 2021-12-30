@@ -1,3 +1,3 @@
 # still-run-pb
-certificate must be start at 01/01/2018
+Note: certificate must be start at 01/01/2018
 
