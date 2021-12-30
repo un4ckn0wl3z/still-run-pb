@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<list count="15"> ;Caixa Serpent
+<item index="0" id="100003253" count="5184000" equip="1" percent="20" special="false"/> ;AUG A3 Serpent 60D
+<item index="1" id="100003253" count="2592000" equip="1" percent="35" special="false"/> ;AUG A3 Serpent 30D
+<item index="2" id="100003253" count="604800" equip="1" percent="65" special="false"/> ;AUG A3 Serpent 7D
+<item index="3" id="100003253" count="259200" equip="1" percent="100" special="false"/> ;AUG A3 Serpent 3D
+
+<item index="4" id="300005149" count="5184000" equip="1" percent="20" special="false"/> ;Cheytac M200 Serpent 60D
+<item index="5" id="300005149" count="2592000" equip="1" percent="35" special="false"/> ;Cheytac M200 Serpent 30D
+<item index="6" id="300005149" count="604800" equip="1" percent="65" special="false"/> ;Cheytac M200 Serpent 7D
+<item index="7" id="300005149" count="259200" equip="1" percent="100" special="false"/> ;Cheytac M200 Serpent 3D
+
+<item index="8" id="200004118" count="5184000" equip="1" percent="20" special="false"/> ;P90 Ext. Serpent 60D
+<item index="9" id="200004118" count="2592000" equip="1" percent="35" special="false"/> ;P90 Ext. Serpent 30D
+<item index="10" id="200004118" count="604800" equip="1" percent="65" special="false"/> ;P90 Ext. Serpent 7D
+<item index="11" id="200004118" count="259200" equip="1" percent="100" special="false"/> ;P90 Ext. Serpent 3D
+
+<item index="12" id="200004116" count="5184000" equip="1" percent="20" special="false"/> ;Kriss S.V Serpent 60D
+<item index="13" id="200004116" count="2592000" equip="1" percent="35" special="false"/> ;Kriss S.V Serpent 30D
+<item index="14" id="200004116" count="604800" equip="1" percent="65" special="false"/> ;Kriss S.V Serpent 7D
+<item index="15" id="200004116" count="259200" equip="1" percent="100" special="false"/> ;Kriss S.V Serpent 3D
+</list>

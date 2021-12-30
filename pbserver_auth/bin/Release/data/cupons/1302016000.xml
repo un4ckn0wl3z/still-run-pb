@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<list count="21"> ;Caixa Woody B
+	<item index="0" id="200004300" count="5184000" equip="1" percent="30" special="false"/> ;OA-93 Woody 60D
+	<item index="1" id="300005175" count="5184000" equip="1" percent="30" special="false"/> ;Cheytac M200 Woody 60D
+	<item index="2" id="601014020" count="5184000" equip="1" percent="30" special="false"/> ;Scorpion Vz.61 Woody 60D
+
+	<item index="3" id="200004300" count="2592000" equip="1" percent="50" special="false"/> ;OA-93 Woody 30D
+	<item index="4" id="300005175" count="2592000" equip="1" percent="50" special="false"/> ;Cheytac M200 Woody 30D
+	<item index="5" id="601014020" count="2592000" equip="1" percent="50" special="false"/> ;Scorpion Vz.61 Woody 30D
+	<item index="6" id="200004162" count="2592000" equip="1" percent="50" special="false"/> ;PP-19 Bizon G. 30D
+	<item index="7" id="100003226" count="2592000" equip="1" percent="50" special="false"/> ;SC-2010 Medical 30D
+	<item index="8" id="702001009" count="2592000" equip="1" percent="50" special="false"/> ;M-7 G. 30D
+
+	<item index="9" id="200004300" count="604800" equip="1" percent="70" special="false"/> ;OA-93 Woody 7D
+	<item index="10" id="300005175" count="604800" equip="1" percent="70" special="false"/> ;Cheytac M200 Woody 7D
+	<item index="11" id="601014020" count="604800" equip="1" percent="70" special="false"/> ;Scorpion Vz.61 Woody 7D
+	<item index="12" id="200004162" count="604800" equip="1" percent="70" special="false"/> ;PP-19 Bizon G. 7D
+	<item index="13" id="100003226" count="604800" equip="1" percent="70" special="false"/> ;SC-2010 Medical 7D
+	<item index="14" id="702001009" count="604800" equip="1" percent="70" special="false"/> ;M-7 G. 7D
+
+	<item index="15" id="200004300" count="259200" equip="1" percent="100" special="false"/> ;OA-93 Woody 3D
+	<item index="16" id="300005175" count="259200" equip="1" percent="100" special="false"/> ;Cheytac M200 Woody 3D
+	<item index="17" id="601014020" count="259200" equip="1" percent="100" special="false"/> ;Scorpion Vz.61 Woody 3D
+	<item index="18" id="200004162" count="259200" equip="1" percent="100" special="false"/> ;PP-19 Bizon G. 3D
+	<item index="19" id="100003226" count="259200" equip="1" percent="100" special="false"/> ;SC-2010 Medical 3D
+	<item index="20" id="702001009" count="259200" equip="1" percent="100" special="false"/> ;M-7 G. 3D
+	<item index="21" id="702001161" count="15552000" equip="1" percent="30" special="true"/> ;Fang Blade Supreme 180D
+</list>

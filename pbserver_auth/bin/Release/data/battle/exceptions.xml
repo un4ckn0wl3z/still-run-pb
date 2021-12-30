@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<list>
+	<weapon slot="2" number="20"/> ;Ballistic Knife
+	<weapon slot="2" number="39"/> ;Ballistic Knife GRS
+	<weapon slot="2" number="154"/> ;Ballistic Knife Russian Deluxe
+	<weapon slot="2" number="152"/> ;Ballistic Knife Russian Normal
+	<weapon slot="2" number="112"/> ;Ballistic Knife SPY
+	<weapon slot="2" number="116"/> ;Ballistic Knife Spy-Deluxe
+	<weapon slot="2" number="60"/> ;Chinese Cleaver
+	<weapon slot="2" number="74"/> ;Chinese Cleaver CNY-2015
+	<weapon slot="2" number="107"/> ;Kunai
+	<weapon slot="2" number="128"/> ;Kunai Serpent
+	<weapon slot="2" number="63"/> ;Field Shovel
+	<weapon slot="2" number="81"/> ;Field Shovel Royal
+	<weapon slot="2" number="72"/> ;Goat Hammer
+	<weapon slot="2" number="99"/> ;HairDryer
+	<weapon slot="2" number="100"/> ;HairDryer Indonesia
+	<weapon slot="2" number="163"/> ;Halloween Hammer
+	<weapon slot="2" number="6"/> ;Mini Axe
+	<weapon slot="2" number="13"/> ;Mini Axe D.
+	<weapon slot="2" number="141"/> ;Mini Axe Axe
+	<weapon slot="2" number="121"/> ;Monkey Hammer
+</list>

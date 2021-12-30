@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<list count="17"> ;X-MAS Supply Kit
+<item index="0" id="200004164" count="7776000" equip="1" percent="30" special="false"/> ;MP9 Ext E.N. 90d
+<item index="1" id="200004165" count="7776000" equip="1" percent="30" special="false"/> ;OA-93 E.N. 90d
+<item index="2" id="200004167" count="7776000" equip="1" percent="30" special="false"/> ;PP-19 Bizon E.N. 90d
+<item index="3" id="200004168" count="7776000" equip="1" percent="30" special="false"/> ;Kriss S.V E.N. 90d
+<item index="4" id="200004164" count="2592000" equip="1" percent="40" special="false"/> ;MP9 Ext E.N. 30d
+<item index="5" id="200004165" count="2592000" equip="1" percent="40" special="false"/> ;OA-93 E.N. 30d
+<item index="6" id="200004167" count="2592000" equip="1" percent="40" special="false"/> ;PP-19 Bizon E.N. 30d
+<item index="7" id="200004168" count="2592000" equip="1" percent="40" special="false"/> ;Kriss S.V E.N. 30d
+<item index="8" id="200004164" count="604800" equip="1" percent="70" special="false"/> ;MP9 Ext E.N. 7d
+<item index="9" id="200004165" count="604800" equip="1" percent="70" special="false"/> ;OA-93 E.N. 7d
+<item index="10" id="200004167" count="604800" equip="1" percent="70" special="false"/> ;PP-19 E.N. 7d
+<item index="11" id="200004168" count="604800" equip="1" percent="70" special="false"/> ;Kriss S.V E.N. 7d
+<item index="12" id="200004164" count="259200" equip="1" percent="100" special="false"/> ;MP9 E.N. 3d
+<item index="13" id="200004165" count="259200" equip="1" percent="100" special="false"/> ;OA-93 E.N. 3d
+<item index="14" id="200004167" count="259200" equip="1" percent="100" special="false"/> ;PP-19 E.N. 3d
+<item index="15" id="200004168" count="259200" equip="1" percent="100" special="false"/> ;Kriss S.V E.N. 3d
+<item index="16" id="0" count="1000000" equip="21" percent="30" special="true"/> ;Gold 1,000,000
+<item index="17" id="0" count="500000" equip="21" percent="50" special="false"/> ;Gold 500,000
+</list>

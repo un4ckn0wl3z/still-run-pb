@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<list count="15"> ;Random Box - Personagens A
+<item index="0" id="1001001036" count="7776000" equip="1" percent="10" special="false"/> ;Scarlett 90D
+<item index="0" id="1001002035" count="7776000" equip="1" percent="10" special="false"/> ;Chou 90D
+
+<item index="1" id="1001001036" count="2592000" equip="1" percent="17" special="false"/> ;Scarlett 30D
+<item index="1" id="1001002035" count="2592000" equip="1" percent="17" special="false"/> ;Chou 30D
+
+<item index="2" id="1001001036" count="604800" equip="1" percent="60" special="false"/> ;Scarlett 7D
+<item index="2" id="1001002035" count="604800" equip="1" percent="60" special="false"/> ;Chou 7D
+
+<item index="3" id="1001001036" count="86400" equip="1" percent="100" special="false"/> ;Scarlett 1D
+<item index="3" id="1001002035" count="86400" equip="1" percent="100" special="false"/> ;Chou 1D
+
+<item index="4" id="1001002052" count="7776000" equip="1" percent="10" special="false"/> ;Leopard Skull 90D
+<item index="4" id="1001002067" count="7776000" equip="1" percent="10" special="false"/> ;Hide Strike 90D
+
+<item index="5" id="1001002052" count="2592000" equip="1" percent="17" special="false"/> ;Leopard Skull 30D
+<item index="5" id="1001002067" count="2592000" equip="1" percent="17" special="false"/> ;Hide Strike 30D
+
+<item index="6" id="1001002052" count="604800" equip="1" percent="60" special="false"/> ;Leopard Skull 7D
+<item index="6" id="1001002067" count="604800" equip="1" percent="60" special="false"/> ;Hide Strike 7D
+
+<item index="7" id="1001002052" count="86400" equip="1" percent="100" special="false"/> ;Leopard Skull 1D
+<item index="7" id="1001002067" count="86400" equip="1" percent="100" special="false"/> ;Hide Strike 1D
+
+<item index="8" id="1001002051" count="7776000" equip="1" percent="10" special="false"/> ;Hide Kopassus 90D
+<item index="8" id="1001001068" count="7776000" equip="1" percent="10" special="false"/> ;Viper Kopassus 90D
+
+<item index="9" id="1001002051" count="2592000" equip="1" percent="17" special="false"/> ;Hide Kopassus 30D
+<item index="9" id="1001001068" count="2592000" equip="1" percent="17" special="false"/> ;Viper Kopassus 30D
+
+<item index="10" id="1001002051" count="604800" equip="1" percent="60" special="false"/> ;Hide Kopassus 7D
+<item index="10" id="1001001068" count="604800" equip="1" percent="60" special="false"/> ;Viper Kopassus 7D
+
+<item index="11" id="1001002051" count="86400" equip="1" percent="100" special="false"/> ;Hide Kopassus 1D
+<item index="11" id="1001001068" count="86400" equip="1" percent="100" special="false"/> ;Viper Kopassus 1D
+
+<item index="12" id="1001002012" count="7776000" equip="1" percent="10" special="false"/> ;Leopard Plus 90D
+<item index="12" id="1001001011" count="7776000" equip="1" percent="10" special="false"/> ;D-Fox Plus 90D
+
+<item index="13" id="1001002012" count="2592000" equip="1" percent="17" special="false"/> ;Leopard Plus 30D
+<item index="13" id="1001001011" count="2592000" equip="1" percent="17" special="false"/> ;D-Fox Plus 30D
+
+<item index="14" id="1001002012" count="604800" equip="1" percent="60" special="false"/> ;Leopard Plus 7D
+<item index="14" id="1001001011" count="604800" equip="1" percent="60" special="false"/> ;D-Fox Plus 7D
+
+<item index="15" id="1001002012" count="86400" equip="1" percent="100" special="false"/> ;Leopard Plus 1D
+<item index="15" id="1001001011" count="86400" equip="1" percent="100" special="false"/> ;D-Fox Plus 1D
+</list>

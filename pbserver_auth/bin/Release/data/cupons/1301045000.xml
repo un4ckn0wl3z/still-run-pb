@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<list count="7"> ;Caixa de armas 2
+<item index="0" id="400006006" count="604800" equip="1" percent="100" special="false"/>     ;SPAS-15 Silver 7D
+<item index="1" id="500010002" count="604800" equip="1" percent="65" special="false"/>     ;MK.46 Ext Silver 7D
+<item index="2" id="100003029" count="604800" equip="1" percent="80" special="false"/>     ;G36C Ext Silver 7D
+<item index="3" id="601013002" count="604800" equip="1" percent="100" special="false"/>     ;P99 HAK Silver 7D
+<item index="4" id="200004020" count="604800" equip="1" percent="100" special="false"/>     ;Spectre Silver 7D
+<item index="5" id="300005009" count="604800" equip="1" percent="100" special="false"/>     ;HK PSG-1 Silver 7D
+<item index="6" id="300005010" count="604800" equip="1" percent="100" special="false"/>    ;Dragunov Silver 7D
+<item index="7" id="100003011" count="604800" equip="1" percent="50" special="false"/>    ;K-201 7D
+</list>

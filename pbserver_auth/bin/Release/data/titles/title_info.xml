@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<list>
+	<title id="1" list="1" medals="0" brooch="1" blueOrder="0" insignia="0" rank="1" slot="1" reqT1="0" reqT2="0"/>
+	<title id="2" list="1" medals="0" brooch="2" blueOrder="0" insignia="0" rank="2" slot="1" reqT1="1" reqT2="0"/>
+	<title id="3" list="1" medals="0" brooch="3" blueOrder="0" insignia="0" rank="3" slot="1" reqT1="2" reqT2="0"/>
+	<title id="4" list="1" medals="0" brooch="4" blueOrder="0" insignia="0" rank="4" slot="1" reqT1="3" reqT2="0"/>
+	
+	<title id="5" list="2" medals="0" brooch="0" blueOrder="1" insignia="2" rank="5" slot="2" reqT1="4" reqT2="0"/>
+	<title id="6" list="4" medals="0" brooch="0" blueOrder="2" insignia="2" rank="5" slot="2" reqT1="4" reqT2="0"/>
+	<title id="7" list="6" medals="0" brooch="0" blueOrder="1" insignia="2" rank="5" slot="2" reqT1="4" reqT2="0"/>
+
+	<title id="8" list="2" medals="0" brooch="0" blueOrder="1" insignia="3" rank="8" slot="2" reqT1="5" reqT2="0"/>
+	<title id="9" list="2" medals="6" brooch="0" blueOrder="2" insignia="0" rank="12" slot="2" reqT1="8" reqT2="0"/>
+	<title id="10" list="2" medals="14" brooch="0" blueOrder="4" insignia="0" rank="17" slot="2" reqT1="9" reqT2="0"/>
+	<title id="11" list="2" medals="13" brooch="0" blueOrder="3" insignia="0" rank="21" slot="3" reqT1="10" reqT2="28"/>
+	<title id="12" list="2" medals="21" brooch="0" blueOrder="6" insignia="0" rank="26" slot="3" reqT1="11" reqT2="0"/>
+	<title id="13" list="2" medals="26" brooch="0" blueOrder="7" insignia="0" rank="31" slot="3" reqT1="11" reqT2="0"/>
+	<title id="14" list="4" medals="0" brooch="0" blueOrder="4" insignia="9" rank="8" slot="2" reqT1="6" reqT2="0"/>
+	<title id="15" list="4" medals="0" brooch="0" blueOrder="2" insignia="8" rank="12" slot="2" reqT1="14" reqT2="0"/>
+
+	<title id="16" list="4" medals="14" brooch="0" blueOrder="4" insignia="0" rank="17" slot="2" reqT1="15" reqT2="0"/>
+	<title id="17" list="4" medals="13" brooch="0" blueOrder="3" insignia="0" rank="21" slot="3" reqT1="16" reqT2="32"/>
+	<title id="18" list="4" medals="21" brooch="0" blueOrder="6" insignia="0" rank="26" slot="2" reqT1="17" reqT2="0"/>
+	<title id="19" list="4" medals="26" brooch="0" blueOrder="3" insignia="0" rank="31" slot="3" reqT1="18" reqT2="0"/>
+	<title id="20" list="6" medals="0" brooch="0" blueOrder="1" insignia="6" rank="8" slot="2" reqT1="7" reqT2="0"/>
+	<title id="21" list="6" medals="20" brooch="0" blueOrder="2" insignia="0" rank="12" slot="2" reqT1="20" reqT2="0"/>
+	<title id="22" list="6" medals="20" brooch="0" blueOrder="4" insignia="0" rank="17" slot="2" reqT1="21" reqT2="0"/>
+	<title id="23" list="6" medals="23" brooch="0" blueOrder="21" insignia="13" rank="21" slot="3" reqT1="22" reqT2="42"/>
+
+	<title id="24" list="6" medals="28" brooch="0" blueOrder="6" insignia="0" rank="26" slot="3" reqT1="23" reqT2="0"/>
+	<title id="25" list="6" medals="28" brooch="0" blueOrder="7" insignia="0" rank="31" slot="3" reqT1="24" reqT2="0"/>
+	<title id="26" list="3" medals="1" brooch="0" blueOrder="0" insignia="6" rank="8" slot="2" reqT1="5" reqT2="0"/>
+	<title id="27" list="3" medals="6" brooch="0" blueOrder="0" insignia="0" rank="12" slot="2" reqT1="26" reqT2="0"/>
+	<title id="28" list="3" medals="14" brooch="0" blueOrder="0" insignia="3" rank="17" slot="2" reqT1="27" reqT2="0"/>
+	<title id="29" list="3" medals="12" brooch="0" blueOrder="6" insignia="0" rank="31" slot="2" reqT1="28" reqT2="0"/>
+	<title id="30" list="5" medals="0" brooch="0" blueOrder="1" insignia="9" rank="8" slot="2" reqT1="6" reqT2="0"/>
+	<title id="31" list="5" medals="6" brooch="0" blueOrder="2" insignia="0" rank="12" slot="2" reqT1="30" reqT2="0"/>
+
+    <title id="32" list="5" medals="14" brooch="0" blueOrder="3" insignia="0" rank="17" slot="2" reqT1="31" reqT2="0"/>
+    <title id="33" list="5" medals="12" brooch="0" blueOrder="4" insignia="0" rank="26" slot="2" reqT1="32" reqT2="0"/>
+	<title id="34" list="5" medals="14" brooch="0" blueOrder="6" insignia="0" rank="31" slot="2" reqT1="33" reqT2="0"/>
+	<title id="35" list="8" medals="0" brooch="0" blueOrder="1" insignia="6" rank="8" slot="2" reqT1="7" reqT2="0"/>
+	<title id="36" list="8" medals="8" brooch="0" blueOrder="2" insignia="0" rank="12" slot="2" reqT1="35" reqT2="0"/>
+	<title id="37" list="8" medals="0" brooch="0" blueOrder="4" insignia="10" rank="17" slot="2" reqT1="36" reqT2="0"/>
+	<title id="38" list="8" medals="0" brooch="0" blueOrder="5" insignia="13" rank="26" slot="2" reqT1="37" reqT2="0"/>
+	<title id="39" list="8" medals="15" brooch="0" blueOrder="6" insignia="0" rank="31" slot="2" reqT1="38" reqT2="0"/>
+	
+
+    <title id="40" list="7" medals="6" brooch="0" blueOrder="1" insignia="0" rank="8" slot="2" reqT1="7" reqT2="0"/>
+	<title id="41" list="7" medals="7" brooch="0" blueOrder="2" insignia="0" rank="12" slot="2" reqT1="40" reqT2="0"/>
+	<title id="42" list="7" medals="0" brooch="0" blueOrder="3" insignia="20" rank="17" slot="2" reqT1="41" reqT2="0"/>
+	<title id="43" list="7" medals="0" brooch="0" blueOrder="5" insignia="12" rank="21" slot="3" reqT1="42" reqT2="0"/>
+	<title id="44" list="7" medals="15" brooch="0" blueOrder="6" insignia="0" rank="31" slot="3" reqT1="43" reqT2="0"/>
+</list>

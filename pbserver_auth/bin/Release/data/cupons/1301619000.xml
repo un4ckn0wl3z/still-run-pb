@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<list count="19"> ;MIX PBIC RandomBox
+<item index="0" id="100003159" count="7776000" equip="1" percent="15" special="false"/> ; AUG A3 PBIC2014 90D
+<item index="0" id="1104003182" count="7776000" equip="1" percent="15" special="false"/> ; Máscara PBIC2014 90D
+
+<item index="1" id="100003120" count="2592000" equip="1" percent="45" special="false"/> ;AUG A3 PBIC2013 30D
+<item index="2" id="100003071" count="2592000" equip="1" percent="45" special="false"/> ;AUG A3 IC 30D
+<item index="3" id="200004103" count="2592000" equip="1" percent="45" special="false"/> ;Kriss S.V PBIC2013 30D
+<item index="4" id="200004060" count="2592000" equip="1" percent="45" special="false"/> ;Kriss S.V IC 30D
+<item index="5" id="100003121" count="604800" equip="1" percent="65" special="false"/> ;M4A1 PBIC 2013 7D
+<item index="6" id="100003122" count="604800" equip="1" percent="65" special="false"/> ;AK-47 PBIC 2013 7D
+
+<item index="7" id="100003159" count="259200" equip="1" percent="100" special="false"/> ;AUG A3 PBIC 2014 3D
+<item index="7" id="400006038" count="259200" equip="1" percent="100" special="false"/> ;M1887 PBIC 2014 3D
+
+<item index="8" id="300005087" count="259200" equip="1" percent="100" special="false"/> ;Cheytac M200 PBIC2014 3D
+<item index="8" id="200004146" count="259200" equip="1" percent="100" special="false"/> ;P90 Ext PBIC2014 3D
+
+<item index="9" id="100003120" count="259200" equip="1" percent="100" special="false"/> ;AUG A3 PBIC 2013 3D
+<item index="9" id="601014005" count="259200" equip="1" percent="100" special="false"/> ;Dual Handgun D 3D
+
+<item index="10" id="100003071" count="259200" equip="1" percent="100" special="false"/> ;AUG A3 IC 3D
+<item index="10" id="702015002" count="259200" equip="1" percent="100" special="false"/> ;Dual Knife D 3D
+
+<item index="11" id="200004103" count="259200" equip="1" percent="100" special="false"/> ;Kriss S.V PBIC2013 3D
+<item index="11" id="702001012" count="259200" equip="1" percent="100" special="false"/> ;Mini Axe D 3D
+
+<item index="12" id="200004060" count="259200" equip="1" percent="100" special="false"/> ;Kriss S.V IC 3D
+<item index="12" id="601002021" count="259200" equip="1" percent="100" special="false"/> ;Glock 18 D 3D
+
+<item index="13" id="100003121" count="86400" equip="1" percent="100" special="false"/> ;M4A1 PBIC2013 1D
+<item index="13" id="1104003182" count="259200" equip="1" percent="100" special="false"/> ;Máscara PBIC2014 3D
+
+<item index="14" id="100003122" count="86400" equip="1" percent="100" special="false"/> ;AK-47 PBIC2013 1D
+<item index="14" id="1104003182" count="259200" equip="1" percent="100" special="false"/> ;Máscara PBIC2014 3D
+
+<item index="15" id="601002012" count="259200" equip="1" percent="100" special="false"/> ;C. Python D 3D
+<item index="15" id="904007010" count="259200" equip="1" percent="100" special="false"/> ;Smoke Plus 3D
+
+<item index="16" id="601002024" count="259200" equip="1" percent="100" special="false"/> ;Kriss Vector SDP 3D
+<item index="16" id="702001011" count="259200" equip="1" percent="100" special="false"/> ;Amok Kukri D 3D
+
+<item index="17" id="803007018" count="259200" equip="1" percent="100" special="false"/> ;K-413 G 3D
+<item index="17" id="702001058" count="259200" equip="1" percent="100" special="false"/> ;Chinese Cleaver 3D
+
+<item index="18" id="702001041" count="259200" equip="1" percent="100" special="false"/> ;Espada Árabe 3D
+<item index="18" id="803007006" count="259200" equip="1" percent="100" special="false"/> ;C-5 D 3D
+</list>                                                                                  

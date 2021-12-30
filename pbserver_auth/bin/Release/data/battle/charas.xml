@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<list>
+	<Chara Id="11" Type="1" Life="120"/> ;Reinforced D-Fox
+	<Chara Id="12" Type="1" Life="120"/> ;Reinforced Leopard
+	<Chara Id="13" Type="1" Life="120"/> ;Reinforced Viper Red
+	<Chara Id="14" Type="1" Life="120"/> ;Reinforced Hide
+	<Chara Id="15" Type="1" Life="120"/> ;Reinforced Combo D-Fox
+	<Chara Id="16" Type="1" Life="120"/> ;Reinforced Combo Leopard
+	<Chara Id="17" Type="1" Life="120"/> ;Reinforced Combo Viper Red
+	<Chara Id="18" Type="1" Life="120"/> ;Reinforced Combo Hide
+	<Chara Id="19" Type="1" Life="110"/> ;Reinforced Acid Pool
+	<Chara Id="20" Type="1" Life="110"/> ;Reinforced Keen Eyes
+	<Chara Id="21" Type="1" Life="110"/> ;Reinforced Red Bulls
+	<Chara Id="22" Type="1" Life="110"/> ;Reinforced Tarantula
+	<Chara Id="35" Type="1" Life="120"/> ;Reinforced Chou
+	<Chara Id="36" Type="1" Life="120"/> ;Reinforced Rica
+	<Chara Id="51" Type="1" Life="120"/> ;Hide Kopassus
+	<Chara Id="52" Type="1" Life="120"/> ;Leopard Bope
+	<Chara Id="53" Type="1" Life="120"/> ;Hide Cup
+	<Chara Id="54" Type="1" Life="120"/> ;World Tarantula
+	<Chara Id="55" Type="1" Life="120"/> ;Viper Shadow
+	<Chara Id="56" Type="1" Life="120"/> ;Hide Recon
+	<Chara Id="67" Type="1" Life="120"/> ;Hide Strike
+	<Chara Id="68" Type="1" Life="120"/> ;Viper Kopassus
+	<Chara Id="69" Type="1" Life="120"/> ;Bella_Belly
+	
+	<Chara Id="84" Type="1" Life="120"/> ;REBEL_Viper_Pirate
+	<Chara Id="87" Type="1" Life="120"/> ;REBEL_Viper_NBgirl	
+	<Chara Id="95" Type="1" Life="120"/> ;REBEL_Viper_Demolition
+	<Chara Id="96" Type="1" Life="120"/> ;REBEL_Viper_Bouncer
+	<Chara Id="109" Type="1" Life="120"/> ;Bella_FireFighter	
+	<Chara Id="127" Type="1" Life="120"/> ;Redbulls_Ninja
+	<Chara Id="137" Type="1" Life="120"/> ;D-Fox_Hitman
+	<Chara Id="144" Type="1" Life="120"/> ;Chou_FBI
+	<Chara Id="148" Type="1" Life="120"/> ;Chou_HallowenNurse3
+	<Chara Id="156" Type="1" Life="120"/> ;KeenEyes_Ninja
+	<Chara Id="157" Type="1" Life="120"/> ;SWAT_Female_SWAT-Sniper	
+	<Chara Id="172" Type="1" Life="120"/> ;Hide_Navy	
+	<Chara Id="175" Type="1" Life="120"/> ;Hide_NBgirl	
+	<Chara Id="183" Type="1" Life="120"/> ;Hide_JumpSuit
+	<Chara Id="184" Type="1" Life="120"/> ;Hide_PoliceSquad
+	<Chara Id="197" Type="1" Life="120"/> ;Chou_FireFighter
+	<Chara Id="215" Type="1" Life="120"/> ;Acidpol_Ninja
+	<Chara Id="255" Type="1" Life="120"/> ;Leopard_
+	<Chara Id="268" Type="1" Life="120"/> ;REBEL_Female_CrocSuitHitman
+	<Chara Id="270" Type="1" Life="120"/> ;SWAT_Female_SAS
+	<Chara Id="275" Type="1" Life="120"/> ;Bella_WW2
+	<Chara Id="278" Type="1" Life="120"/> ;Chou_WW2	
+	<Chara Id="283" Type="1" Life="120"/> ;Tarantula_Somalian-Pirate
+	<Chara Id="287" Type="1" Life="120"/> ;Hide_General	
+	<Chara Id="286" Type="1" Life="120"/> ;REBEL_Viper_General
+	<Chara Id="294" Type="1" Life="120"/> ;Hide_GIGN	
+	<Chara Id="295" Type="1" Life="120"/> ;REBEL_Viper_Matilda
+	<Chara Id="302" Type="1" Life="120"/> ;REBEL_Female_P1000
+	<Chara Id="305" Type="1" Life="120"/> ;SWAT_Female_P1000
+	<Chara Id="311" Type="1" Life="120"/> ;Chou_Invasion
+	<Chara Id="320" Type="1" Life="120"/> ;Bella_Invasion
+	<Chara Id="353" Type="1" Life="120"/> ;Hide_Vacance17
+	<Chara Id="356" Type="1" Life="120"/> ;REBEL_Viper_Vacance17
+	<Chara Id="360" Type="1" Life="120"/> ;REBEL_Viper_Medic
+	<Chara Id="362" Type="1" Life="120"/> ;Hide_Medic	
+	<Chara Id="375" Type="1" Life="120"/> ;D-Fox_HawainGang
+	<Chara Id="377" Type="1" Life="120"/> ;Leopard_FBI
+	<Chara Id="394" Type="1" Life="120"/> ;Tarantula_Ninja
+	<Chara Id="413" Type="1" Life="120"/> ;Chou_Pocong
+	<Chara Id="415" Type="1" Life="120"/> ;Bella_HallowenNurse
+	<Chara Id="421" Type="1" Life="120"/> ;Bella_Rangda
+	<Chara Id="436" Type="1" Life="120"/> ;REBEL_Viper_Rudolph
+	<Chara Id="439" Type="1" Life="120"/> ;Hide_Rudolph
+	
+	<Chara Id="462" Type="1" Life="120"/> ;Chou_MintChoco
+	<Chara Id="465" Type="1" Life="120"/> ;Bella_PinkChoco
+	
+	<Chara Id="41" Type="6" Life="400"/> ;Raptor
+	<Chara Id="42" Type="6" Life="350"/> ;Sting
+	<Chara Id="43" Type="6" Life="100"/> ;Acid
+	<Chara Id="30" Type="6" Life="500"/> ;Tank
+	<Chara Id="32" Type="6" Life="450"/> ;Elite
+	<Chara Id="44" Type="6" Life="440"/> ;Reinforced Raptor (Mercury)
+	<Chara Id="45" Type="6" Life="390"/> ;Reinforced Sting (Mars)
+	<Chara Id="46" Type="6" Life="110"/> ;Reinforced Acid (Vulcan)
+	
+</list>

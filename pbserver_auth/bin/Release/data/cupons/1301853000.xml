@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<list count="15"> ;Random Box - Personagens B
+<item index="0" id="1001002014" count="7776000" equip="1" percent="25" special="false"/> ;Hide Plus 90D
+<item index="0" id="1001001013" count="7776000" equip="1" percent="25" special="false"/> ;Viper Red Plus 90D
+
+<item index="1" id="1001002014" count="2592000" equip="1" percent="35" special="false"/> ;Hide Plus 30D
+<item index="1" id="1001001013" count="2592000" equip="1" percent="35" special="false"/> ;Viper Red Plus 30D
+
+<item index="2" id="1001002014" count="604800" equip="1" percent="60" special="false"/> ;Hide Plus 7D
+<item index="2" id="1001001013" count="604800" equip="1" percent="60" special="false"/> ;Viper Red Plus 7D
+
+<item index="3" id="1001002014" count="86400" equip="1" percent="100" special="false"/> ;Hide Plus 1D
+<item index="3" id="1001001013" count="86400" equip="1" percent="100" special="false"/> ;Viper Red Plus 1D
+
+<item index="4" id="1001001054" count="7776000" equip="1" percent="25" special="false"/> ;Tarantula 2014 90D
+<item index="4" id="1001002053" count="7776000" equip="1" percent="25" special="false"/> ;Hide 2014 90D
+
+<item index="5" id="1001001054" count="2592000" equip="1" percent="35" special="false"/> ;Tarantula 2014 30D
+<item index="5" id="1001002053" count="2592000" equip="1" percent="35" special="false"/> ;Hide 2014 30D
+
+<item index="6" id="1001001054" count="604800" equip="1" percent="60" special="false"/> ;Tarantula 2014 7D
+<item index="6" id="1001002053" count="604800" equip="1" percent="60" special="false"/> ;Hide 2014 7D
+
+<item index="7" id="1001001054" count="86400" equip="1" percent="100" special="false"/> ;Tarantula 2014 1D
+<item index="7" id="1001002053" count="86400" equip="1" percent="100" special="false"/> ;Hide 2014 1D
+
+<item index="8" id="1001001015" count="7776000" equip="1" percent="25" special="false"/> ;Combo D-Fox Plus 90D
+<item index="8" id="1001002016" count="7776000" equip="1" percent="25" special="false"/> ;Combo Leopard Plus 90D
+
+<item index="9" id="1001001015" count="2592000" equip="1" percent="35" special="false"/> ;Combo D-Fox Plus 30D
+<item index="9" id="1001002016" count="2592000" equip="1" percent="35" special="false"/> ;Combo Leopard Plus 30D
+
+<item index="10" id="1001001015" count="604800" equip="1" percent="60" special="false"/> ;Combo D-Fox Plus 7D
+<item index="10" id="1001002016" count="604800" equip="1" percent="60" special="false"/> ;Combo Leopard Plus 7D
+
+<item index="11" id="1001001015" count="86400" equip="1" percent="100" special="false"/> ;Combo D-Fox Plus 1D
+<item index="11" id="1001002016" count="86400" equip="1" percent="100" special="false"/> ;Combo Leopard Plus 1D
+
+<item index="12" id="1001001017" count="7776000" equip="1" percent="25" special="false"/> ;Combo Viper Red Plus 90D
+<item index="12" id="1001002018" count="7776000" equip="1" percent="25" special="false"/> ;Combo Hide Plus 90D
+
+<item index="13" id="1001001017" count="2592000" equip="1" percent="35" special="false"/> ;Combo Viper Red Plus 30D
+<item index="13" id="1001002018" count="2592000" equip="1" percent="35" special="false"/> ;Combo Hide Plus 30D
+
+<item index="14" id="1001001017" count="604800" equip="1" percent="60" special="false"/> ;Combo Viper Red Plus 7D
+<item index="14" id="1001002018" count="604800" equip="1" percent="60" special="false"/> ;Combo Hide Plus 7D
+
+<item index="15" id="1001001017" count="86400" equip="1" percent="100" special="false"/> ;Combo Viper Red Plus 1D
+<item index="15" id="1001002018" count="86400" equip="1" percent="100" special="false"/> ;Combo Hide Plus 1D
+</list>

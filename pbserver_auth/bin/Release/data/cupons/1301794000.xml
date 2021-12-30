@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<list count="30"> ;Caixa PBIC2015
+<item index="0" id="100003219" count="7776000" equip="1" percent="10" special="false"/> ;AUG A3 PBIC2015 90D
+<item index="0" id="1104003209" count="7776000" equip="1" percent="10" special="false"/> ;Máscara PBIC2015 Premium 90D
+<item index="1" id="200004216" count="7776000" equip="1" percent="10" special="false"/> ;Kriss S.V PBIC2015 90D
+<item index="1" id="1104003209" count="7776000" equip="1" percent="10" special="false"/> ;Máscara PBIC2015 Premium 90D
+<item index="2" id="200004218" count="7776000" equip="1" percent="10" special="false"/> ;P90 Ext PBIC2015 90D
+<item index="2" id="1104003209" count="7776000" equip="1" percent="10" special="false"/> ;Máscara PBIC2015 Premium 90D
+<item index="3" id="400006058" count="7776000" equip="1" percent="10" special="false"/> ;M1887 PBIC2015 90D
+<item index="3" id="1104003209" count="7776000" equip="1" percent="10" special="false"/> ;Máscara PBIC2015 Premium 90D
+<item index="4" id="300005120" count="7776000" equip="1" percent="10" special="false"/> ;Cheytac M200 PBIC2015 90D
+<item index="4" id="1104003209" count="7776000" equip="1" percent="10" special="false"/> ;Máscara PBIC2015 Premium 90D
+<item index="5" id="702001104" count="7776000" equip="1" percent="10" special="false"/> ;Keris PBIC2015 90D
+<item index="5" id="1104003209" count="7776000" equip="1" percent="10" special="false"/> ;Máscara PBIC2015 Premium 90D
+<item index="6" id="601002070" count="7776000" equip="1" percent="10" special="false"/> ;R.B 454 SS8M+S PBIC2015 90D
+<item index="6" id="1104003209" count="7776000" equip="1" percent="10" special="false"/> ;Máscara PBIC2015 Premium 90D
+
+
+<item index="7" id="100003219" count="2592000" equip="1" percent="45" special="false"/> ;AUG A3 PBIC2015 30D
+<item index="8" id="200004216" count="2592000" equip="1" percent="45" special="false"/> ;Kriss S.V PBIC2015 30D
+<item index="9" id="200004218" count="2592000" equip="1" percent="45" special="false"/> ;P90 Ext PBIC2015 30D
+<item index="10" id="400006058" count="2592000" equip="1" percent="45" special="false"/> ;M1887 PBIC2015 30D
+<item index="11" id="300005120" count="2592000" equip="1" percent="45" special="false"/> ;Cheytac M200 PBIC2015 30D
+<item index="12" id="702001104" count="2592000" equip="1" percent="45" special="false"/> ;Keris PBIC2015 30D
+<item index="13" id="601002070" count="2592000" equip="1" percent="45" special="false"/> ;R.B 454 SS8M+S PBIC2015 30D
+<item index="14" id="1104003209" count="2592000" equip="1" percent="45" special="false"/> ;Máscara PBIC2015 Premium 30D
+
+<item index="15" id="100003219" count="604800" equip="1" percent="70" special="false"/> ;AUG A3 PBIC2015 7D
+<item index="16" id="200004216" count="604800" equip="1" percent="70" special="false"/> ;Kriss S.V PBIC2015 7D
+<item index="17" id="200004218" count="604800" equip="1" percent="70" special="false"/> ;P90 Ext PBIC2015 7D
+<item index="18" id="400006058" count="604800" equip="1" percent="70" special="false"/> ;M1887 PBIC2015 7D
+<item index="19" id="300005120" count="604800" equip="1" percent="70" special="false"/> ;Cheytac M200 PBIC2015 7D
+<item index="20" id="702001104" count="604800" equip="1" percent="70" special="false"/> ;Keris PBIC2015 7D
+<item index="21" id="601002070" count="604800" equip="1" percent="70" special="false"/> ;R.B 454 SS8M+S PBIC2015 7D
+<item index="22" id="1104003209" count="604800" equip="1" percent="70" special="false"/> ;Máscara PBIC2015 Premium 7D
+
+<item index="23" id="100003219" count="86400" equip="1" percent="90" special="false"/> ;AUG A3 PBIC2015 1D
+<item index="24" id="200004216" count="86400" equip="1" percent="90" special="false"/> ;Kriss S.V PBIC2015 1D
+<item index="25" id="200004218" count="86400" equip="1" percent="90" special="false"/> ;P90 Ext PBIC2015 1D
+<item index="26" id="400006058" count="86400" equip="1" percent="90" special="false"/> ;M1887 PBIC2015 1D
+<item index="27" id="300005120" count="86400" equip="1" percent="90" special="false"/> ;Cheytac M200 PBIC2015 1D
+<item index="28" id="702001104" count="86400" equip="1" percent="100" special="false"/> ;Keris PBIC2015 1D
+<item index="29" id="601002070" count="86400" equip="1" percent="100" special="false"/> ;R.B 454 SS8M+S PBIC2015 1D
+<item index="30" id="1104003209" count="86400" equip="1" percent="100" special="false"/> ;Máscara PBIC2015 Premium 1D
+</list>

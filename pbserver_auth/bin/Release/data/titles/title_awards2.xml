@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<list>
+	<title id="8" itemid="100003014" count="10" equip="1" /> ;SG 550 S. 10U
+	<title id="10" itemid="100003013" count="10" equip="1" /> ;G36C Ext. 10U
+	<title id="12" itemid="100003036" count="10" equip="1" /> ;AUG A3 10U
+	<title id="12" itemid="100003015" count="10" equip="1" /> ;AK SOPMOD 10U
+	<title id="13" itemid="1103003001" count="1" equip="3" /> ;Boina de Assalto
+	<title id="14" itemid="300005006" count="10" equip="1" /> ;Dragunov G. 10U
+	<title id="16" itemid="300005024" count="10" equip="1" /> ;PSG1 G 10U
+	<title id="18" itemid="300005005" count="10" equip="1" /> ;L115A1 10U
+	<title id="19" itemid="1103003003" count="1" equip="3" /> ;Boina dos Snipers
+	<title id="20" itemid="200004007" count="10" equip="1" /> ;MP5K G. 10U
+	<title id="20" itemid="200004009" count="10" equip="1" /> ;Spectre W. 10U
+	<title id="22" itemid="200004011" count="10" equip="1" /> ;P90 Ext. 10U
+	<title id="24" itemid="200004013" count="10" equip="1" /> ;Kriss S.V 10U
+	<title id="25" itemid="1103003002" count="1" equip="3" /> ;Boina de SMG
+	<title id="26" itemid="702015001" count="10" equip="1" /> ;Dual Knife 10U
+	<title id="28" itemid="702001004" count="10" equip="1" /> ;Amok Kukri 10U
+	<title id="29" itemid="702001007" count="10" equip="1" /> ;Mini Axe 10U
+	<title id="30" itemid="601013001" count="10" equip="1" /> ;P99 HAK 10U
+	<title id="32" itemid="601014001" count="10" equip="1" /> ;Dual Handgun 10U
+	<title id="32" itemid="601014002" count="10" equip="1" /> ;Dual D-Eagle 10U
+	<title id="34" itemid="1103003005" count="1" equip="3" /> ;Boina de Pistoleiro
+	<title id="35" itemid="400006004" count="10" equip="1" /> ;870MCS W. 10U
+	<title id="37" itemid="400006003" count="10" equip="1" /> ;SPAS-15 10U
+	<title id="39" itemid="1103003004" count="1" equip="3" /> ;Boina de Shotgun
+	<title id="40" itemid="803007004" count="10" equip="1" /> ;C-5 10U
+	<title id="42" itemid="904007005" count="10" equip="1" /> ;WP Smoke 10U
+</list>

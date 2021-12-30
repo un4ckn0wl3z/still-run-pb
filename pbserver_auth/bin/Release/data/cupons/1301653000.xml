@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<list count="6"> ;Caixa aleatória das tropas da SVU Elite
+<item index="0" id="300005077" count="2592000" equip="1" percent="30" special="false"/> ;SVU Elite 30d
+<item index="1" id="300005077" count="604800" equip="1" percent="50" special="false"/> ;SVU Elite 7d
+<item index="2" id="300005077" count="259200" equip="1" percent="70" special="false"/> ;SVU Elite 3d
+<item index="3" id="300005077" count="86400" equip="1" percent="90" special="false"/> ;SVU Elite 1d
+<item index="4" id="300005094" count="86400" equip="1" percent="100" special="false"/> ;SVU G 1d
+<item index="5" id="300005035" count="50" equip="1" percent="100" special="false"/> ;SVU 50u
+<item index="6" id="0" count="1000" equip="21" percent="100" special="false"/> ;1,000 pontos
+</list>

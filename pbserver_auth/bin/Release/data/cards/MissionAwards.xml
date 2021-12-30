@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<list>
+	<mission id="1" blueOrder="0" exp="0" gp="2000"/> ;Missão Tutorial
+	<mission id="2" blueOrder="0" exp="0" gp="0"/> ;Missão Tutorial dos Dinossauros
+	<mission id="3" blueOrder="0" exp="0" gp="0"/> ;Missão Tutorial dos Sobreviventes
+	<mission id="5" blueOrder="1" exp="500" gp="0"/> ;Missão de Assalto
+	<mission id="6" blueOrder="1" exp="500" gp="0"/> ;Missão de Apoio
+	<mission id="7" blueOrder="1" exp="500" gp="0"/> ;Missão de Invasão
+	<mission id="8" blueOrder="1" exp="700" gp="0"/> ;Missão de Defesa
+	<mission id="9" blueOrder="1" exp="1000" gp="0"/> ;Missão de Explosão
+	<mission id="10" blueOrder="1" exp="2000" gp="0"/> ;Missão de Supressão
+	<mission id="11" blueOrder="1" exp="3000" gp="0"/> ;Missão Forças Especiais
+	<mission id="12" blueOrder="1" exp="4000" gp="0"/> ;Missão Total
+	<mission id="14" blueOrder="0" exp="0" gp="0"/> ;Missão Dinossauro
+	<mission id="15" blueOrder="0" exp="0" gp="0"/> ;Missão Sobreviventes
+	<mission id="16" blueOrder="0" exp="0" gp="0"/> ;Missão Dinossauro - Nível 2
+	<mission id="17" blueOrder="0" exp="0" gp="0"/> ;Missão Sobrevivente - Nível 2
+</list>

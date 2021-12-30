@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<list count="3"> ;Kit suporte Famas G2 30d
+<item index="0" id="100003049" count="2592000" equip="1" percent="100" special="false"/>     ;Famas G2 30D
+<item index="1" id="100003050" count="2592000" equip="1" percent="85" special="false"/>     ;Famas G2 Commando 30D
+<item index="2" id="100003051" count="2592000" equip="1" percent="75" special="false"/>     ;Famas G2 Sniper 30D
+<item index="3" id="100003052" count="2592000" equip="1" percent="55" special="false"/>     ;Famas G2 M203 30D
+</list>

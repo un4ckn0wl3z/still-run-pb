@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<list count="9"> OA-7 Box
+<item index="0" id="200004362" count="86400" equip="1" percent="10" special="false"/> ;OA-93 MechHero 1D
+<item index="1" id="200018121" count="86400" equip="1" percent="20" special="false"/> ;OA-93 Beyond 1D
+<item index="2" id="200004347" count="86400" equip="1" percent="32" special="false"/> ;OA-93 Ramadan 1D
+<item index="3" id="200004405" count="86400" equip="1" percent="11" special="false"/> ;OA-93 MNB3 1D
+<item index="4" id="200018034" count="86400" equip="1" percent="77" special="false"/> ;OA-93 Gold 1D
+<item index="5" id="200004362" count="604800" equip="1" percent="87" special="false"/> ;OA-93 MechHero 7D 
+<item index="6" id="200018121" count="604800" equip="1" percent="61" special="false"/> ;OA-93 Beyond 7D
+<item index="7" id="200004347" count="604800" equip="1" percent="32" special="false"/> ;OA-93 Ramadan 7D
+<item index="8" id="200004405" count="604800" equip="1" percent="66" special="false"/> ;OA-93 MNB3 7D
+<item index="9" id="200018034" count="604800" equip="1" percent="77" special="false"/> ;OA-93 Gold 7D
+</list>

@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+ <!--; Regra Modes
+  ;NONE = 0x00,
+  ;AI = 0x01,
+  ;//2?
+  ;SNIPER = 0x04,
+  ;ELIMINE = 0x08,
+  ;HEADHUNTER = 0x20,//32
+  ;SHOTGUN = 0x80//128 8C 140
+  ;Knuckle = 0xe0,//224 ou 256?
+  ;//256
+  ;//512
+  ;INFECTION = 0x400 //1024 
+  ;AI Stronger = x800 // 2048
+  ;Caos = x1000 // 4096
+  -->
+<list>
+<!-- Death Match Mode -->
+<map mode="0" tag="0" enable="false" /> <!-- ?? -->
+<map mode="6573" tag="0" enable="true" /> <!-- Porto Akaba -->
+<map mode="6573" tag="0" enable="true" /> <!-- Red Rock -->
+<map mode="6573" tag="0" enable="true" /> <!-- Old Library -->
+<map mode="6573" tag="0" enable="true" /> <!-- Mstation -->
+<map mode="6573" tag="0" enable="true" /> <!-- Midnight Zone -->
+<map mode="6573" tag="0" enable="true" /> <!-- Uptown -->
+<map mode="6573" tag="0" enable="true" /> <!-- Burning Hall -->
+<map mode="6573" tag="0" enable="true" /> <!-- D-squad -->
+<map mode="6573" tag="0" enable="true" /> <!-- Crackdown -->
+<map mode="6573" tag="0" enable="true" /> <!-- Saint Mansion -->
+<map mode="6573" tag="0" enable="true" /> <!-- Eastern Road -->
+<map mode="6573" tag="0" enable="true" /> <!-- Downtown -->
+<map mode="6573" tag="0" enable="true" /> <!-- Luxville -->
+<map mode="4524" tag="0" enable="true" /> <!-- Blow City -->
+<map mode="4524" tag="0" enable="true" /> <!-- Storm Tube -->
+<map mode="0" tag="0" enable="false" /> <!-- Erro -->
+<map mode="4524" tag="0" enable="true" /> <!-- Breakdown -->
+<map mode="4524" tag="0" enable="true" /> <!-- Training Camp -->
+<map mode="4524" tag="0" enable="true" /> <!-- Sentry Base -->
+<map mode="4524" tag="0" enable="true" /> <!-- Desert Camp -->
+<map mode="4524" tag="0" enable="true" /> <!-- Kick Point -->
+<map mode="4524" tag="0" enable="true" /> <!-- Face Rock -->
+<map mode="4524" tag="0" enable="true" /> <!-- Supply Base -->
+<map mode="4524" tag="0" enable="true" /> <!-- SandStorm -->
+
+<!-- Bomb Mission Mode -->
+<map mode="132" tag="0" enable="true" /> <!-- Downtown -->
+<map mode="132" tag="0" enable="true" /> <!-- Luxville -->
+<map mode="132" tag="0" enable="true" /> <!-- Out Post -->
+<map mode="132" tag="0" enable="true" /> <!-- Blow City -->
+<map mode="132" tag="0" enable="true" /> <!-- Storm Tube -->
+<map mode="132" tag="0" enable="true" /> <!-- Sentry Base -->
+<map mode="132" tag="0" enable="true" /> <!-- Hospital -->
+<map mode="132" tag="0" enable="true" /> <!-- Downtown2 -->
+<map mode="132" tag="0" enable="true" /> <!-- ShoppingCenter -->
+<map mode="132" tag="0" enable="true" /> <!-- SandStorm -->
+<!-- Destroy/Defence Mission Mode -->
+<map mode="0" tag="0" enable="true" /> <!-- Breakdown -->
+<map mode="0" tag="0" enable="false" /> <!-- Erro 2 -->
+<map mode="0" tag="0" enable="false" /> <!-- Erro 3 -->
+<map mode="0" tag="0" enable="true" /> <!-- Helispot -->
+<map mode="0" tag="0" enable="true" /> <!-- Black Panther -->
+<!-- Dino Mode -->
+<map mode="0" tag="0" enable="true" /> <!-- Breeding Nest -->
+<map mode="0" tag="0" enable="true" /> <!-- Dino Uptown -->
+<map mode="0" tag="0" enable="true" /> <!-- Dino Breakdown -->
+<map mode="0" tag="0" enable="false" /> <!-- Erro 4 -->
+<!-- Tutorial Mode -->
+<map mode="0" tag="0" enable="false" /> <!-- Tutorial -->
+<!-- Death Match Mode -->
+<map mode="4524" tag="0" enable="true" /> <!-- ShoppingCenter -->
+<map mode="4524" tag="0" enable="true" /> <!-- Safari -->
+<map mode="4524" tag="0" enable="true" /> <!-- DragonAlley -->
+<map mode="4524" tag="0" enable="true" /> <!-- MachuPicchu -->
+<!-- Bomb Mission Mode -->
+<map mode="132" tag="0" enable="true" /> <!-- CargoShip -->
+<!-- Death Match Mode -->                          
+<map mode="4524" tag="0" enable="true" /> <!-- Two Towers -->
+<!-- CrossCounter  Mode -->
+<map mode="0" tag="0" enable="true" /> <!-- Crackdown -->
+<map mode="0" tag="0" enable="true" /> <!-- Saint Mansion -->
+<map mode="0" tag="0" enable="true" /> <!-- D Squad -->
+<map mode="0" tag="0" enable="true" /> <!-- Porto Akaba -->
+<map mode="0" tag="0" enable="true" /> <!-- Mstation -->
+<map mode="0" tag="0" enable="true" /> <!-- Training Camp -->
+<map mode="0" tag="0" enable="true" /> <!-- AngkorRuins -->
+<map mode="0" tag="0" enable="true" /> <!-- RedRock -->
+<map mode="0" tag="0" enable="true" /> <!-- Safari -->
+<!-- Death Match Mode -->  
+<map mode="4524" tag="0" enable="true" /> <!-- Ghost Town -->
+<map mode="4524" tag="0" enable="true" /> <!-- GrandBazzar -->
+<!-- CrossCounter  Mode -->
+<map mode="0" tag="0" enable="true" /> <!-- DinoLab -->
+<!-- Death Match Mode -->  
+<map mode="4524" tag="0" enable="true" /> <!-- Under23 -->
+<map mode="4524" tag="0" enable="true" /> <!-- TaipeiCityMall -->
+<map mode="4524" tag="0" enable="true" /> <!-- Safari2 -->
+<!-- Bomb Mission Mode -->
+<map mode="132" tag="0" enable="true" /> <!-- Airport -->
+<!-- CrossCounter  Mode -->
+<map mode="0" tag="0" enable="true" /> <!-- Safari2 -->
+<!-- Death Match Mode -->  
+<map mode="4524" tag="0" enable="true" /> <!-- Metrô -->
+
+<!-- ERROR Mode --> 
+<map mode="0" tag="0" enable="false" /> <!-- Erro 5   -->
+<map mode="0" tag="0" enable="false" /> <!-- Erro 5-1 -->
+<map mode="0" tag="0" enable="false" /> <!-- Erro 5-2 -->
+<map mode="0" tag="0" enable="false" /> <!-- Erro 5-3 -->
+<map mode="0" tag="0" enable="false" /> <!-- Erro 5-4 -->
+<map mode="0" tag="0" enable="false" /> <!-- Erro 5-5 -->
+<map mode="0" tag="0" enable="false" /> <!-- Erro 5-6 -->
+<map mode="0" tag="0" enable="false" /> <!-- Erro 6 -->
+
+<!-- Death Match Mode -->
+<map mode="4524" tag="0" enable="true" /> <!-- Rush Hour -->
+<map mode="4524" tag="0" enable="true" /> <!-- Cargo Port -->
+<map mode="4524" tag="0" enable="true" /> <!-- Black Mamba -->
+
+<!-- Bomb Mission Mode -->
+<map mode="132" tag="0" enable="true" /> <!-- Safe House -->
+<!-- Death Match Mode --> 
+<map mode="4524" tag="0" enable="true" /> <!-- BloodyHoliday -->
+<map mode="4524" tag="0" enable="true" /> <!-- WestStation -->
+<!-- Bomb Mission Mode -->
+<map mode="132" tag="0" enable="true" /> <!-- Hard Rock -->
+<!-- Death Match Mode --> 
+<map mode="4524" tag="0" enable="true" /> <!-- HouseMuseum -->
+<map mode="4524" tag="0" enable="true" /> <!-- Parque Assombrado -->
+<map mode="4524" tag="0" enable="true" /> <!-- RothenVillage -->
+<map mode="0" tag="0" enable="false" /> <!-- Erro 7 -->
+<map mode="4524" tag="0" enable="true" /> <!-- WaterComplex -->
+<map mode="4524" tag="0" enable="true" /> <!-- HotelCamuflage -->
+<map mode="4524" tag="0" enable="true" /> <!-- Battleship -->
+<map mode="0" tag="0" enable="false" /> <!-- Erro 8 -->
+<!-- Bomb Mission Mode -->
+<map mode="132" tag="0" enable="true" /> <!-- 92 Ballistic -->
+<!-- Death Match Mode --> 
+<map mode="4524" tag="0" enable="true" /> <!-- 93 RampartTown -->
+<!-- Bomb Mission Mode -->
+<map mode="132" tag="0" enable="true" /> <!-- FalluCity -->
+<map mode="0" tag="0" enable="false" /> <!-- Erro 9 -->
+<map mode="0" tag="0" enable="false" /> <!-- Erro 1 -->
+<map mode="0" tag="0" enable="false" /> <!-- Erro 11 -->
+<!-- Death Match Mode --> 
+<map mode="4524" tag="0" enable="true" /> <!-- Hindrance -->
+<!-- Death Match|INFECTION Mode --> 
+<map mode="1024" tag="0" enable="true" /> <!-- Esgotos -->
+<map mode="4524" tag="0" enable="true" /> <!-- Favela -->
+<map mode="4524" tag="0" enable="true" /> <!-- New Library -->
+<!-- Thief Mode -->
+<map mode="0" tag="0" enable="true" /> <!-- C_Sandstorm -->
+<!-- Dino Mode -->
+<map mode="0" tag="0" enable="false" /> <!-- [NoStageName] Dinoruins DC 10/04/18 -->
+<!-- Death Match Mode --> 
+<map mode="0" tag="0" enable="false" /> <!-- [NoStageName] Fatal Zone DC 10/04/18 -->
+<!-- Bomb Mission Mode -->
+<map mode="132" tag="0" enable="true" /> <!-- Marine Wave -->
+<!-- Thief Mode -->
+<map mode="0" tag="0" enable="true" /> <!-- Still Raid -->
+<!-- Bomb Mission Mode -->
+<map mode="0" tag="0" enable="false" /> <!-- [NoStageName] Old Dock -->
+<map mode="0" tag="0" enable="false" /> <!-- Erro 12 -->
+<!-- Death Match Mode --> 
+<map mode="4524" tag="0" enable="true" /> <!-- Ampera Bridge -->
+<!-- Bomb Mission Mode -->
+<map mode="132" tag="0" enable="true" /> <!-- Mihawk -->
+<map mode="132" tag="0" enable="true" /> <!-- Broken Alley -->
+<map mode="132" tag="0" enable="true" /> <!-- Provence -->
+<!-- Death Match|INFECTION Mode --> 
+<map mode="1024" tag="0" enable="true" /> <!-- M_Brigde -->
+<map mode="4524" tag="0" enable="true" /> <!-- Mihawk -->
+<map mode="0" tag="0" enable="false" /> <!-- [NoStageName] TheStadium DC 10/04/18 -->
+<!-- Bomb Mission Mode -->
+<map mode="132" tag="0" enable="true" /> <!-- RoadSide -->
+<!-- Death Match|INFECTION Mode --> 
+<map mode="1024" tag="0" enable="true" /> <!-- InfectAirport -->
+<!-- Death Match Mode --> 
+<map mode="0" tag="0" enable="false" /> <!-- [NoStageName]Junkyard SEM IMAGEM DC 10/04/18-->
+<!-- Bomb Mission Mode -->
+<map mode="132" tag="0" enable="true" /> <!-- FortSantiago -->
+<map mode="0" tag="0" enable="false" /> <!-- [NoStageName]NewCrackdown SEM IMAGEM DC 10/04/18 -->
+<!-- Death Match --> 
+<map mode="4524" tag="0" enable="true" /> <!-- Hospital -->
+<!-- Death Match Mode --> 
+<map mode="0" tag="0" enable="false" /> <!-- [NoStageName] Octango SEM IMAGEM DC-->
+<map mode="0" tag="0" enable="false" /> <!-- [NoStageName] Octango SEM IMAGEMDC-->
+<map mode="0" tag="0" enable="false" /> <!-- Erro 13 -->
+</list>
