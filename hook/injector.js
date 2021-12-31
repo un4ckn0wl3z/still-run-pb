@@ -1,6 +1,6 @@
 var frida = require('frida');
 var fs = require('fs');
-var injectScript = fs.readFileSync('hook.js', "utf8");
+var injectScript = fs.readFileSync('GetAddrInfoW.hook.js', "utf8");
 var frida = require('frida');
 
 console.log(injectScript);
